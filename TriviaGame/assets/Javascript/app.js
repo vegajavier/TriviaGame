@@ -1,4 +1,6 @@
-$('.carousel').carousel()
+$( document ).ready(function() {
+    console.log( "ready!" );
+});
 $('.carousel').carousel({
-    interval: 2000
-  })
+    interval: 1000 * 20
+});

@@ -1,1 +1,13 @@
+body{
+    background: url("https://www.wallpaperflare.com/static/296/937/98/marvel-comics-magneto-x-men-man-wallpaper.jpg");
+    background: no-repeat cover;
+}
+.container{
+    margin-left: auto;
+    margin-top: 150px;
+}
+.d-block {
+    width: 200px;
+    height:500px;
+}
 
