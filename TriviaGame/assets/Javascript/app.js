@@ -2,5 +2,5 @@ $( document ).ready(function() {
     console.log( "ready!" );
 });
 $('.carousel').carousel({
-    interval: 1000 * 20
+    interval: 1000
 });
